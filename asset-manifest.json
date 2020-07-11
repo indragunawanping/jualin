@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jualin/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jualin/static/js/main.ce273b73.chunk.js",
+    "main.js.map": "/jualin/static/js/main.ce273b73.chunk.js.map",
+    "runtime-main.js": "/jualin/static/js/runtime-main.40e2050d.js",
+    "runtime-main.js.map": "/jualin/static/js/runtime-main.40e2050d.js.map",
+    "static/js/2.ab2a17d6.chunk.js": "/jualin/static/js/2.ab2a17d6.chunk.js",
+    "static/js/2.ab2a17d6.chunk.js.map": "/jualin/static/js/2.ab2a17d6.chunk.js.map",
+    "index.html": "/jualin/index.html",
+    "precache-manifest.97f563be1c26cff9e4c388ea7cc3d4c4.js": "/jualin/precache-manifest.97f563be1c26cff9e4c388ea7cc3d4c4.js",
+    "service-worker.js": "/jualin/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jualin/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ab2a17d6.chunk.js.LICENSE.txt": "/jualin/static/js/2.ab2a17d6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jualin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e2050d.js",
+    "static/js/2.ab2a17d6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce273b73.chunk.js"
+  ]
+}
